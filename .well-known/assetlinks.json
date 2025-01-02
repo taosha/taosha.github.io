@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.taosha.packages",
+      "sha256_cert_fingerprints": [
+        "CA:D5:2F:0B:03:93:F8:11:8D:DB:36:C6:AC:CE:E8:C3:63:76:6D:0B:00:72:4B:39:CA:8D:33:F5:8E:36:BA:C8"
+      ]
+    }
+  }
+]
